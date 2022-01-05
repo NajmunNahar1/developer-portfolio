@@ -64,13 +64,33 @@ h1{
     padding-left: 2%;
     margin-bottom: 10px;
     margin-right:10px ;
-    margin-left:10px ;
+   
     width: 600px;
+    border-radius: 5px;
+    
+    
    
 }
 .display-container{
     display: flex;
 }
+#container{
+    border-left:7px solid;
+    border-image: linear-gradient(tomato,red);
+    border-image-slice: 1;
+
+}
+#container-one{
+    border-left:7px solid;
+    border-image: linear-gradient(blue,teal);
+    border-image-slice:1;
+}
+
+
+
+
+
+
 
 
 
