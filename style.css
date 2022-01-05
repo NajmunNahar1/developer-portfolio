@@ -58,5 +58,8 @@ h1{
 .father{
     padding:2%
 }
+.third{
+    box-shadow: 2px 2px 2px gray;
+}
 
 
